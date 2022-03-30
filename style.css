@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(15, 15, 15);
+    color: white;
+
+}
+
+
+.central {
+    width: 30%;
+    margin-top: 50px !important;
+    margin:  0 auto;
+}
+
+.data-holder {
+    padding: 10px 40px;
+    background-color: rgba(240, 248, 255, 0.883);
+    color: black;
+    width: 500px;
+    height: 700px;
+    overflow-y:auto;
+    border-radius: 15px;
+    font-size: 20px;
+}
